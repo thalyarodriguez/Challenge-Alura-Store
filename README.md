@@ -29,5 +29,5 @@ Con estos datos, ayudaremos al señor Juan a tomar una decisión fundamental y e
 🗺️ Mapa de calor (Ej. Concentración geográfica de ventas)
 
 ## ⚙️ Instrucciones para Ejecutar el Proyecto
-1. Descarga el archivo AluraStoreLatam (1) y súbelo directamente a Google Colab
+1. Descarga el archivo AluraStoreLatam (1).ipynb y súbelo directamente a Google Colab
 2. Ejecuta las celdas para reproducir los resultados.
